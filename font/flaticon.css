@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?4b0d67c9b50e39845276178b6027c901") format("truetype"),
+url("./flaticon.woff?4b0d67c9b50e39845276178b6027c901") format("woff"),
+url("./flaticon.woff2?4b0d67c9b50e39845276178b6027c901") format("woff2"),
+url("./flaticon.eot?4b0d67c9b50e39845276178b6027c901#iefix") format("embedded-opentype"),
+url("./flaticon.svg?4b0d67c9b50e39845276178b6027c901#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-chat:before {
+    content: "\f101";
+}
+.flaticon-coffee-cup:before {
+    content: "\f102";
+}
+.flaticon-folder:before {
+    content: "\f103";
+}
+.flaticon-followers:before {
+    content: "\f104";
+}
+.flaticon-food:before {
+    content: "\f105";
+}
+.flaticon-gear:before {
+    content: "\f106";
+}
+.flaticon-heart:before {
+    content: "\f107";
+}
+.flaticon-layers:before {
+    content: "\f108";
+}
+.flaticon-pencil:before {
+    content: "\f109";
+}
