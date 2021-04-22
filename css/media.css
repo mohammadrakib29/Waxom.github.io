@@ -238,7 +238,7 @@
 
     /* banner goes to here======= */
     .banner-content-main {
-        height: 54vh;
+        height: 100vh;
     }
     .banner-content-main {
         padding-top: 0px;
@@ -254,7 +254,7 @@
         padding-bottom: 45px;
     }
     #banner {
-        height: 50vh;
+        height: 100vh;
     }
     .content-text a {
         font-size: 13px;
